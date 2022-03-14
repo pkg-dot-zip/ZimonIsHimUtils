@@ -3,11 +3,11 @@ using System.Globalization;
 
 namespace ZimonIsHimUtils.ExtensionMethods
 {
-    public static class ConvertableExtensionMethods
+    public static class ConvertibleExtensionMethods
     {
         public static void DoFor(this IConvertible convertible, Action action)
         {
-            for (int i = 0; i < convertible.ToInt32(CultureInfo.DefaultThreadCurrentCulture); i++)
+            for (var i = 0; i < convertible.ToInt32(CultureInfo.DefaultThreadCurrentCulture); i++)
             {
                 action();
             }
