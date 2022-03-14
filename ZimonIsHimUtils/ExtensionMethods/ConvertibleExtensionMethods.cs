@@ -12,5 +12,13 @@ namespace ZimonIsHimUtils.ExtensionMethods
                 action();
             }
         }
+
+        public static void DoFor(this IConvertible convertible, Action<int> action)
+        {
+            for (var i = 0; i < convertible.ToInt32(CultureInfo.DefaultThreadCurrentCulture); i++)
+            {
+                action(i);
+            }
+        }
     }
 }

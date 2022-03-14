@@ -23,16 +23,23 @@ namespace UtilsTester
             // false.DoFor(PrintTest);
             // DateTime.MaxValue.DoFor(PrintTest);
 
+            50.DoFor(PrintTestI);
+
             // Action a = PrintTest;
             // a.DoFor(5);
 
-            Action<string> thing = PrintTest;
-            thing.DoFor("TestMaarEens", 5);
+            // Action<string> thing = PrintTest;
+            // thing.DoFor("TestMaarEens", 5);
         }
 
         private static void PrintTest()
         {
             Console.WriteLine("Test");
+        }
+
+        private static void PrintTestI(int number)
+        {
+            Console.WriteLine($"Test {number}");
         }
 
         private static void PrintTest(string s)
