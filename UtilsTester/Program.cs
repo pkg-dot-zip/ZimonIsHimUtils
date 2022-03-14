@@ -23,7 +23,14 @@ namespace UtilsTester
             // false.DoFor(PrintTest);
             // DateTime.MaxValue.DoFor(PrintTest);
 
-            50.DoFor(PrintTestI);
+            // 50.DoFor(PrintTestI);
+
+            bool a = false;
+            Console.WriteLine($"A value is {a}");
+            a.Flip();
+            Console.WriteLine($"A value is {a}");
+
+            (a.ToInt() + 1).DoFor(PrintTestI);
 
             // Action a = PrintTest;
             // a.DoFor(5);
