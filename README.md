@@ -26,7 +26,8 @@
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
-Personal project in which I create useful as well as weird and/or illegal extension methods
+Personal project in which I create useful as well as weird and/or illegal extension methods.
+This project started out as a joke but it has since become a more serious project to include more interesting functionality in C#.
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@ZimonIsHim](https://github.com/ZimonIsHim) - Idea, Initial work, general development & management
