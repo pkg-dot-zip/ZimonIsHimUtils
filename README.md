@@ -30,7 +30,7 @@ Personal project in which I create useful as well as weird and/or illegal extens
 This project started out as a joke but it has since become a more serious project to include more interesting functionality in C#.
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@ZimonIsHim](https://github.com/pkg-dot-zip) - Idea, Initial work, general development & management
+- [@OnsPetruske](https://github.com/pkg-dot-zip) - Idea, Initial work, general development & management
 
 ## Example usage <a name = "example"></a>
 ```csharp
