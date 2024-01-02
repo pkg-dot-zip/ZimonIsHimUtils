@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://github.com/ZimonIsHim/ZimonIsHimUtils" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/1CWWMG5.png" alt="Project logo"></a>
+  <a href="https://github.com/pkg-dot-zip/ZimonIsHimUtils" rel="noopener">
+ <img width=200px height=200px src="" alt="Project logo"></a>
 </p>
 
 <h3 align="center">ZimonIsHimUtils</h3>
 
 <div align="center">
 
-  [![Stars](https://img.shields.io/github/stars/ZimonIsHim/ZimonIsHimUtils)](https://github.com/ZimonIsHim/ZimonIsHimUtils/stargazers)
+  [![Stars](https://img.shields.io/github/stars/pkg-dot-zip/ZimonIsHimUtils)](https://github.com/pkg-dot-zip/ZimonIsHimUtils/stargazers)
   [![NuGet](https://img.shields.io/nuget/dt/ZimonIsHimUtils)](https://www.nuget.org/packages/ZimonIsHimUtils/)
   [![NuGet Version](https://img.shields.io/nuget/v/ZimonIsHimUtils)](https://www.nuget.org/packages/ZimonIsHimUtils/)
-  [![Last Commit](https://img.shields.io/github/last-commit/ZimonIsHim/ZimonIsHimUtils)](https://github.com/ZimonIsHim/ZimonIsHimUtils/commits/development)
-  [![License](https://img.shields.io/github/license/ZimonIsHim/ZimonIsHimUtils)](/LICENSE)
+  [![Last Commit](https://img.shields.io/github/last-commit/pkg-dot-zip/ZimonIsHimUtils)](https://github.com/pkg-dot-zip/ZimonIsHimUtils/commits/development)
+  [![License](https://img.shields.io/github/license/pkg-dot-zip/ZimonIsHimUtils)](/LICENSE)
 
 </div>
 
@@ -30,7 +30,7 @@ Personal project in which I create useful as well as weird and/or illegal extens
 This project started out as a joke but it has since become a more serious project to include more interesting functionality in C#.
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@ZimonIsHim](https://github.com/ZimonIsHim) - Idea, Initial work, general development & management
+- [@ZimonIsHim](https://github.com/pkg-dot-zip) - Idea, Initial work, general development & management
 
 ## Example usage <a name = "example"></a>
 ```csharp
